@@ -1,0 +1,4 @@
+Git ile uðraþýrken kendi solution'um silindi.
+
+ https://github.com/Furkanben/KampIntro 
+ git hesabýndan çekildi.
